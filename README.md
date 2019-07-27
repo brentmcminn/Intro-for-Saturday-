@@ -2,7 +2,7 @@
 Brief Description about myself 
 * Who are you? What is your background?
 
-I am BRent McMinn and I am from the woodlands texas. 
+I am Brent McMinn and I am from the woodlands texas. 
 ​
     * What are your career goals?
 ​TO work in portfolio management in a quant/fundamental workspace       
